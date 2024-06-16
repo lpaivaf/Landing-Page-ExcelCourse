@@ -35,7 +35,7 @@ Esta página de vendas foi desenvolvida para promover o Curso Completo de Excel,
 
 ## Vídeo Demonstrativo
 
-[![](media/Excel-Project.mp4)]
+![](media/Excel-Project.mp4)
 
 
 ## Contribuição
