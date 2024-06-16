@@ -7,7 +7,7 @@ Este repositório contém um projeto pessoal de uma Landing Page referente a um 
 - [Descrição](#descrição)
 - [Funcionalidade](#funcionalidade)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Vídeo Demonstrativo](#vídeo-demosnstrativo)
+- [Imagem Demonstrativa](#imagem-demonstrativa)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 - [Contato](#contato)
@@ -33,9 +33,9 @@ Esta página de vendas foi desenvolvida para promover o Curso Completo de Excel,
 * CSS
 * Framework
 
-## Vídeo Demonstrativo
+## Imagem Demonstrativa
 
-![](media/Excel-Project.mp4)
+![](image/img-dispositivos.png)
 
 
 ## Contribuição
