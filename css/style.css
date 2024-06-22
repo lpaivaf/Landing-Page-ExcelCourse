@@ -289,7 +289,7 @@ main .int-container,
 }
 
 .curso {
-    background-image: url(/image/Mulher-Olhar-lateral.png);
+    background-image: url(image/Mulher-Olhar-lateral.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
@@ -651,7 +651,7 @@ p, address a{
 #privacidade,
 #termos {
     width: 100%;
-    background-image: url(/image/templete1.png);
+    background-image: url(image/templete1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -660,7 +660,7 @@ p, address a{
 }
 
 #termos {
-    background-image: url(/image/templete2.png);
+    background-image: url(image/templete2.png);
 }
 
 .privacidade_container,
