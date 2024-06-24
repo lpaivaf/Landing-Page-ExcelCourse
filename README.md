@@ -7,7 +7,7 @@ Este repositório contém um projeto pessoal de uma Landing Page referente a um 
 - [Descrição](#descrição)
 - [Funcionalidade](#funcionalidade)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Imagem Demonstrativa](#imagem-demonstrativa)
+- [Página](#página)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 - [Contato](#contato)
@@ -33,9 +33,9 @@ Esta página de vendas foi desenvolvida para promover o Curso Completo de Excel,
 * CSS
 * Framework
 
-## Imagem Demonstrativa
+## Página
 
-![](image/img-dispositivos.png)
+[![](image/img-dispositivos.png)](https://lpaivaf.github.io/Landing-Page-ExcelCourse/)
 
 
 ## Contribuição

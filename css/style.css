@@ -186,24 +186,37 @@ main .int-container,
     margin-bottom: 1rem;
 }
 
-.investimento {
-    font-size: 1.5rem;
+.investimento{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    width: 80%;
 }
 
-.investimento p:nth-child(1) span+span {
+.investimento-container {
+    font-size: 1.2rem;
+}
+
+.investimento-container p:nth-child(1) span+span {
     text-decoration: line-through;
 }
 
-.investimento p:nth-child(2) span {
-    font-size: 3rem;
+.investimento-container p:nth-child(2) span {
+    font-size: 2rem;
     font-weight: 600;
     color: red;
 }
 
+.cta{
+    margin-bottom: 4rem;
+}
+
 .cta-btn {
     display: inline-block;
-    padding: 1rem 2rem;
-    font-size: 2rem;
+    padding: .5rem 1rem;
+    font-size: 1.5rem;
     color: #fff;
     background-color: var(--tertiary-color);
     border-radius: 5px;
@@ -212,15 +225,19 @@ main .int-container,
 }
 
 .cta-1 {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
 }
 
 .cta-btn:hover {
     background-color: #049e11;
 }
 
+.cta-container{
+    width: 80%;
+}
+
 .cta-container h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .cta-container p {
@@ -288,14 +305,17 @@ main .int-container,
     font-weight: 400;
 }
 
-.curso {
+.valores-container p:nth-child(1) {
+    font-size: 1.5rem;
+}
+
+/* .curso {
     background-image: url(/image/Mulher-Olhar-lateral.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
     background-clip: border-box;
-
-}
+} */
 
 .curso-container {
     display: flex;
@@ -351,6 +371,10 @@ main .int-container,
     transform: rotate(-45deg) translateX(-2px) translateY(2px);
 }
 
+.prova-social{
+    margin-top: 0;
+}
+
 .prova-social h3,
 .autoridade h3,
 .elementos-persuasivos h3,
@@ -358,6 +382,7 @@ main .int-container,
     font-size: 2rem;
     padding: 2rem 0;
 }
+
 
 .elementos-persuasivos h3 {
     margin-top: 0;
@@ -388,7 +413,11 @@ blockquote:after {
     background-color: var(--secondary-color);
     color: white;
     padding: 1rem 0 2rem;
-    margin-bottom: 0;
+    margin-bottom: 0;    
+}
+
+.autoridade-container p{
+    padding: 0 1rem;
 }
 
 .autoridade-container img {
@@ -399,7 +428,7 @@ blockquote:after {
 .elementos-persuasivos {
     background-color: var(--secondary-color);
     color: white;
-    margin: 0;
+    margin: 0 0 2rem 0;
 }
 
 .persuasivos-container ul {
@@ -556,6 +585,29 @@ p, address a{
         width: 15rem;
         padding-left: 0;
     }
+
+
+    .investimento-container {
+        font-size: 1.5rem;
+    }
+    
+    .investimento-container p:nth-child(2) span {
+        font-size: 3rem;
+    }
+    
+    .cta-btn {
+        padding: 1rem 2rem;
+        font-size: 2rem;
+    }
+    
+    .cta-1 {
+        font-size: 1.8rem;
+    }
+    
+    .cta-container h3 {
+        font-size: 2rem;
+    }
+
 
     .video-container {
         max-width: 680px;
