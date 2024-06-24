@@ -1,6 +1,6 @@
 # Curso Completo de Excel - Landing Page
 
-Este repositório contém um projeto pessoal de uma Landing Page referente a um curso de Excel, com todos os arquivos necessários para configurar e personalizar a página de vendas da maneira que desejar. Há as seções essenciais da página, que inclue política de privacidade e termos de uso
+Este repositório contém um projeto pessoal de uma Landing Page referente a um curso de Excel, com arquivos necessários para configurar e personalizar a página de captura da maneira que desejar. Há seções essenciais da página, que inclue política de privacidade e termos de uso.
 
 ## Índice
 
@@ -14,7 +14,7 @@ Este repositório contém um projeto pessoal de uma Landing Page referente a um 
 
 ## Descrição
 
-Esta página de vendas foi desenvolvida para promover o Curso Completo de Excel, oferecendo uma visão detalhada do curso, depoimentos de alunos, garantia de satisfação e políticas de privacidade e termos de uso.
+Esta página de captura foi desenvolvida para promover o Curso Completo de Excel, oferecendo uma visão detalhada do curso, depoimentos de alunos, garantia de satisfação e políticas de privacidade e termos de uso.
 
 ## Funcionalidade
 
@@ -41,7 +41,6 @@ Esta página de vendas foi desenvolvida para promover o Curso Completo de Excel,
 ## Contribuição
 
 Contribuições são bem-vindas! 
-Por favor, siga o código de conduta e as diretrizes de contribuição.
 
 ## Licença
 
